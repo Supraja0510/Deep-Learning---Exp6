@@ -1,4 +1,4 @@
-# Deep-Learning---Exp8
+# Deep-Learning---Exp6
 
  **DL- Developing a Deep Learning Model for NER using LSTM**
 
